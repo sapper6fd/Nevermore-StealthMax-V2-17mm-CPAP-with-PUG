@@ -12,15 +12,15 @@ This 3D-printable part brings the two duct connections and the PUG cable pass-th
 - **Integrated PUG chamber-side mounting interface** — accommodates the PUG-style umbilical/cable-gland arrangement in the same panel.
 - **Central multi-channel opening** — retains the original four-section vent geometry.
 - **Original panel details** — includes the visible mounting openings and NEVERMORE lettering.
-- **Editable CAD format** — provided as a STEP file for CAD inspection, adjustment, and export to a slicer-friendly format.
+- **Editable CAD format** — provided as an SLT file for CAD inspection, adjustment, and export to a slicer-friendly format.
 
 ## Model file
 
 | File | Description |
 | --- | --- |
-| [`models/Nevermore_17mm_CPAP_PUG_Chamber_Side.step`](models/Nevermore_17mm_CPAP_PUG_Chamber_Side.step) | Complete combined part in STEP format. |
+| [17mm_CPAP_Tube_with_PUG.stl](/17mm_CPAP_Tube_with_PUG.stl) | Complete combined part in SLT format. |
 
-**Approximate overall CAD envelope:** 185.1 × 48.7 × 31.3 mm (X × Y × Z, as oriented in the supplied STEP model). These are bounding-box dimensions, **not** hole spacing or verified installation clearances.
+**Approximate overall CAD envelope:** 185.1 × 48.7 × 31.3 mm (X × Y × Z, as oriented in the supplied SLT model). These are bounding-box dimensions, **not** hole spacing or verified installation clearances.
 
 ## Intended use and compatibility
 
@@ -60,21 +60,10 @@ Inspect the sliced toolpaths for closed walls, correctly formed tube bores, and 
 
 Use fastener sizes and any additional sealing materials that suit **your specific mating hardware**; a verified bill of materials was not supplied with this part.
 
-## Repository layout
-
-```text
-.
-├── README.md
-├── assets/
-│   └── preview.png
-└── models/
-    └── Nevermore_17mm_CPAP_PUG_Chamber_Side.step
-```
-
 ## Notes
 
-- The STEP file is a CAD model; export an STL or 3MF from your CAD application if needed by your slicer.
-- A STEP model and preview image are provided; hoses, PUG umbilical hardware, screws, and the rest of the printer are **not** included.
+- The SLT file is a CAD model; export an STL or 3MF from your CAD application if needed by your slicer.
+- A SLT model and preview image are provided; hoses, PUG umbilical hardware, screws, and the rest of the printer are **not** included.
 - The term *CPAP* describes a style of flexible duct used in printer mods here. **This part is for 3D-printer use only and is not medical equipment.**
 - Inspect and test your own print for mechanical strength and fit before use.
 
