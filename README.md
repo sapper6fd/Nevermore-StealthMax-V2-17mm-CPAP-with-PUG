@@ -6,6 +6,8 @@ This 3D-printable part brings the two duct connections and the PUG cable pass-th
 
 ![3D CAD preview of the Nevermore 17 mm CPAP and PUG chamber-side panel](/17mm_CPAP_Tube_with_PUG_Chamber_Side.png)
 
+![3D CAD preview of the Nevermore 17 mm CPAP and PUG chamber-side panel](/17mm_CPAP_Tube_with_PUG_Chamber_Side_b.png)
+
 ## Features
 
 - **Dual angled CPAP tube connections** — one on each side of the panel, for routing flexible ducting.
