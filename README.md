@@ -4,7 +4,7 @@
 
 This 3D-printable part brings the two duct connections and the PUG cable pass-through into one housing, while retaining the central vent opening and the familiar **NEVERMORE** front-panel styling.
 
-![3D CAD preview of the Nevermore 17 mm CPAP and PUG chamber-side panel](assets/preview.png)
+![3D CAD preview of the Nevermore 17 mm CPAP and PUG chamber-side panel](/17mm_CPAP_Tube_with_PUG_Chamber_Side.png)
 
 ## Features
 
